@@ -1,4 +1,4 @@
 git
 ===
 
-Teste GitHub
+ GitHub
